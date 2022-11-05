@@ -8,7 +8,7 @@
 #include <unistd.h>
 #include <netinet/in.h>
 #include <stdlib.h>
-#define PORT 8080
+#define PORT 8082
 
 int build_client_socket(sockaddr_in serv_addr);
 
