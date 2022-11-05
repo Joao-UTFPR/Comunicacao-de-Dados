@@ -1,0 +1,5 @@
+https://www.geeksforgeeks.org/socket-programming-cc/ -- socketing
+
+http://www.trytoprogram.com/c-examples/c-program-to-encrypt-and-decrypt-string/ --criptografia
+
+https://stackoverflow.com/questions/41384262/convert-string-to-binary-in-c --string->binário
